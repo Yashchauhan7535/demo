@@ -1,2 +1,3 @@
 # demo
-just a demo for first git
+Just a demo for first git
+Author - Yash
