@@ -1,6 +1,6 @@
 # demo
 Just a demo for first git.
 <br>
-Author - Yash
+Author - Yash (chauhan)
 started again
 
